@@ -1,0 +1,27 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "learning Express Mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnkiarie/node-express-course.git"
+  },
+  "keywords": [
+    "jim"
+  ],
+  "author": "Jimmy Kiarie",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jnkiarie/node-express-course/issues"
+  },
+  "homepage": "https://github.com/jnkiarie/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
+}
